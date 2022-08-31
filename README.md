@@ -37,7 +37,7 @@ The data suggests that from 2009 to 2017 the highest number of Successful campai
 
 When looking at the Outcomes based on Goals data for plays over the time period (2009-2017) we see that out of the 1047 campaigns just over half, 547 campaigns, were attempting to raise between $1000 and $4,999. The Success Rate of this demographic is impressive boasting a 72.66% chance of reaching or exceeding the campaign goal. However, this demographic does not hold the highest Success Rate - that award goes to the campaigns that had a goal of less than $1000.  
 
-What are some limitations of this dataset?
+#### What are some limitations of this dataset?
 
 One limitation of this data set is what happened after the successful fundraising campaign. We do not have any data to suggest Revenues collected from executing on the project. 
 
