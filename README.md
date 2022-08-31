@@ -1,14 +1,14 @@
-# Kickstarter Analysis for client Louise
+# Kickstarter Fundraising Campaign Analysis with Excel
 
 ## Overview of Project
 
 ### Purpose
 
-The purpose of this project is to help our client Louise, a playwright, and her play, Fire. She is putting on a play and has done the initial round of fundraising. She has requested our help to analyze many similar campaigns as her to help her determine her likelihood of success. 
+The purpose of this project is to help our client Louise and her play, Fire. She has launched her initial fundraising campaign and has requested our help to analyze  similar campaigns to help her determine the likelihood of success. 
 
 Using the Kickstarter campaign database and Excel we helped parse the data into a more readily accessible form to present to Louise. Our analysis can be found in the images and text below. 
 
-Full access to the Excel Workbook can be found by accessing this [link](INSERT ZIP FILE LINK). 
+Full access to the Excel Workbook can be found by accessing this [link](Kickstarter_Challenge.zip). 
 
 ## Analysis and Challenges
 
@@ -23,7 +23,7 @@ Full access to the Excel Workbook can be found by accessing this [link](INSERT Z
 
 ### Challenges and Difficulties Encountered
 
-While performing this analysis there were not many challenges encountered. However, it is important to note within the Pivot Table even though one can easily sort outcomes in decending alphabetical order and achieve the same result, we actually care about sorting by the descending "Count of Outcomes". By enabling our sorting this way we prevent any future disruption based on the count of outcome changing. 
+While performing this analysis there were not many challenges encountered. However, it is important to note within the Theater Outcomes Pivot Table even though one can easily sort outcomes in decending alphabetical order and achieve the same result, we actually care about sorting by the descending "Count of Outcomes". By enabling our sorting this way we prevent any future disruption based on the count of outcome changing. 
 
 ## Results
 
@@ -35,13 +35,13 @@ The data suggests that from 2009 to 2017 the highest number of Successful campai
 
 #### What can you conclude about the Outcomes based on Goals?
 
-When looking at the Outcomes based on Goals data for plays over the time period (2009-2017) we see that out of the 1047 campaigns just over half, 547 campaigns, were attempting to raise between $1000 and $4,999. The Success Rate of this demographic is impressive boasting a 72.66% chance of reaching or exceeding the campaign goal. However, this demographic does not hold the highest Success Rate - that award goes to the campaigns that had a goal of less than $1000.  
+When looking at the Outcomes based on Goals data for plays over the time period (2009-2017) we see that out of the 1047 campaigns just over half- 547 campaigns - were attempting to raise between $1000 and $4,999. The Success Rate of this demographic is impressive boasting a 72.66% chance of reaching or exceeding the campaign goal. However, this demographic does not hold the highest Success Rate - that award goes to the campaigns that had a goal of less than $1000 (75.81% Success Rate).  
 
 #### What are some limitations of this dataset?
 
 One limitation of this data set is what happened after the successful fundraising campaign. We do not have any data to suggest Revenues collected from executing on the project. 
 
-Its likely that we could gleen a lot of interesting information about the contributors to each of the campaigns - such as age, sex, nationality, etc - but we are limited to the total number of backers for each campaign. If we had additional information we could help our clients better target their audience and potentially increase the likelihood of their success. 
+Its likely that we could gleen a lot of interesting information about the contributors to each of the campaigns - such as age, sex, nationality, etc - but we are limited to the total number of backers for each campaign. If we had additional information we could help our clients better target their audience and potentially increase the likelihood of launching a successful campaign. 
 
 
 #### What are some other possible tables and/or graphs that we could create?
